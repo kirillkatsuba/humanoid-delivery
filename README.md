@@ -31,10 +31,11 @@ Our software works in simulation, and we already test on real robots.
 ## Team
 
 Team #43
-Mikhail Sannikov — Robot Engineer
-Mikhail Gusev — ML Software
-Kirill Katsuba — ML Software
-Todor Ilić — Robot Engineer&#x20;
+
+- Mikhail Sannikov — Robot Engineer
+- Mikhail Gusev — ML Software
+- Kirill Katsuba — ML Software
+- Todor Ilić — Robot Engineer&#x20;
 
 ## Call to action
 
