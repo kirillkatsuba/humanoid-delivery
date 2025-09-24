@@ -1,2 +1,1 @@
-# humanoid-delivery
-Humanoid delivery software
+# Humanoid delivery software
