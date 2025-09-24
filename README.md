@@ -28,7 +28,8 @@ Operating cost from \~290 ₽/hour vs. \~630 ₽/hour for human couriers. Per-ro
 
 Our software works in simulation, and we already test on real robots.
 
-## Team
+## Contacts
+Write humanoid228@skoltech.ru or telegram @mcnckc
 
 Team #43
 
